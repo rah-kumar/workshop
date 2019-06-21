@@ -1,0 +1,3 @@
+run command "go run <filename>"
+
+run command "go build <filename>" to create an executable
