@@ -32,9 +32,9 @@ func main(){
 	fmt.Println("Add a+b :",a+b)
 	fmt.Println("Minus a-b :",a-b)
 	fmt.Println("Multiply a*b :",a*b)
-	fmt.Println("Divide a/b :",a/b
+	fmt.Println("Divide a/b :",a/b)
 
-	return)
+	return
 }
 
 
